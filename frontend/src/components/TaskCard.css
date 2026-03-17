@@ -1,0 +1,29 @@
+.task-card{
+border:1px solid #ddd;
+padding:20px;
+border-radius:8px;
+background:#fafafa;
+}
+
+.task-card h3{
+margin:0 0 10px 0;
+}
+
+.task-card button{
+margin-top:10px;
+background:#4f46e5;
+color:white;
+border:none;
+padding:8px 12px;
+border-radius:5px;
+cursor:pointer;
+}
+
+.confidence{
+float:right;
+background:#4f46e5;
+color:white;
+padding:4px 10px;
+border-radius:20px;
+font-size:12px;
+}
