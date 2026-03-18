@@ -2,7 +2,6 @@ import React,{useState,useEffect} from "react";
 import { getTasks } from "../services/api";
 import TaskCard from "./TaskCard";
 import "./TaskList.css";
-import "./TaskList.css";
 
 function TaskList({transcriptId}){
 
