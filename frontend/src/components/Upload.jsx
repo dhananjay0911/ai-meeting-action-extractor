@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { Upload } from "lucide-react";
 import { uploadTranscript } from "../services/api";
 import "./Upload.css";
 
